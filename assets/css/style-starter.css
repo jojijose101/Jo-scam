@@ -10979,7 +10979,15 @@ span.sicon {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/Anti-sosh.png); }
 .w3l-services-block-3 .service8:hover {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/mocazzo.png); }
-    
+.w3l-services-block-3 .service9:hover {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/mocajo.png); }
+.w3l-services-block-3 .service10:hover {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/webscrap.png); }
+.w3l-services-block-3 .service11:hover {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/todo.png); }
+.w3l-services-block-3 .service12:hover {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/movieco.png); }
+   
 .w3l-services-block-3 .service2:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/g2.jpg); }
 
